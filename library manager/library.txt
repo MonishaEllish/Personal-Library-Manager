@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "the new pyschology of success",
+        "Author": "carol",
+        "Year": "2006",
+        "Genre": "psychology",
+        "Read": true
+    },
+    {
+        "Title": "atomic habits",
+        "Author": "james clear",
+        "Year": "2018",
+        "Genre": "productivity",
+        "Read": false
+    },
+    {
+        "Title": "dare to lead",
+        "Author": "brene brown",
+        "Year": "2018",
+        "Genre": "business",
+        "Read": false
+    }
+]
